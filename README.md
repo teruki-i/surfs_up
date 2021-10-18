@@ -12,7 +12,7 @@ For June, the lowest recorded temperature was 64.0°F and the higest was 85.0°F
 
 On the other hand, for December, the lowest tempeature was 56.0°F and the highest was 83.0°F. However, these temperatures are also outliers. With an interquartile range of 5.0°F, anything below 61.5°F (69.0°F - 7.5°F) or above 81.5°F (74.0°F + 7.5°F) is an outlier.
 
-These results suggest that we can expect the temperature in Oahu to generally be in the mid-70°F range in June while it would be a few degrees lower, generally in the low-70°F in December.
+These results suggest that we can expect the temperature in Oahu to generally be in the mid-70°F range in June while it would be a few degrees lower, generally in the low-70°F range in December.
 
 ## Summary
 Based on this analysis, the surf and ice cream shop business should be able to operate year round. The temperature data shows that we can expect Oahu to have mildly warm weather throughout the year. Though the data also suggests that June is slightly warmer, in general, there isn't a large difference between June and December weather.

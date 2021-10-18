@@ -1,4 +1,4 @@
-# Analysis of Temperature in Oahu
+# Analysis of Weather in Oahu
 ## Overview
 This analysis used SQLite to examine temperature data collected in Oahu, Hawaii from 2010 to 2017 to compare temperatures in June and December. More specifically, based on the change in temperature between June and December, this analysis saught to determine whether a surf and ice cream shop business can feasibly operate year round.
 
